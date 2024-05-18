@@ -1,0 +1,552 @@
+[DEBUG] 2024-05-01 21:21:09.322 [main] TestNG - suiteXmlPath: "C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml"
+[INFO ] 2024-05-01 21:21:09.812 [main] Utils - [TestNG] Running:
+  C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml
+
+[INFO ] 2024-05-01 21:21:17.690 [main] TC_001_UserInfoTest - **** Starting TC_001_UserInfoTest  ****
+[INFO ] 2024-05-01 21:21:28.499 [main] TC_001_UserInfoTest - **** Finished TC_001_UserInfoTest  ****
+[INFO ] 2024-05-01 21:21:28.526 [main] TC_001_UserInfoTest - **** Starting TC_002_CheckTitleTest ****
+[INFO ] 2024-05-01 21:21:28.529 [main] TC_001_UserInfoTest - **** Finished TC_002_CheckTitleTest ****
+[INFO ] 2024-05-01 21:21:28.534 [main] TC_001_UserInfoTest - **** Starting TC_003_AuthorInfoTest ****
+[INFO ] 2024-05-01 21:21:31.251 [main] TC_001_UserInfoTest - **** Finished TC_003_AuthorInfoTest ****
+[INFO ] 2024-05-01 21:21:31.253 [main] TC_001_UserInfoTest - **** Starting TC_004_ShareOptionTest ****
+[INFO ] 2024-05-01 21:21:32.291 [main] TC_001_UserInfoTest - **** Starting TC_004_ShareOptionTest ****
+[INFO ] 2024-05-01 21:21:32.294 [main] TC_001_UserInfoTest - **** Starting TC_005_NewsLetterTest ****
+[INFO ] 2024-05-01 21:21:35.376 [main] TC_001_UserInfoTest - **** Finished TC_005_NewsLetterTest ****
+[INFO ] 2024-05-01 21:21:35.378 [main] TC_001_UserInfoTest - **** Starting TC_007_LikesAndViewsTest ****
+[INFO ] 2024-05-01 21:21:35.410 [main] TC_001_UserInfoTest - **** Finished TC_007_LikesAndViewsTest ****
+[INFO ] 2024-05-01 21:21:35.412 [main] TC_001_UserInfoTest - **** Starting TC_006_LinksActiveTest ****
+[INFO ] 2024-05-01 21:21:35.604 [main] TC_001_UserInfoTest - **** Finished TC_006_LinksActiveTest ****
+[INFO ] 2024-05-01 21:22:04.205 [main] TC_001_UserInfoTest - **** Starting TC_001_UserInfoTest  ****
+[INFO ] 2024-05-01 21:22:14.839 [main] TC_001_UserInfoTest - **** Finished TC_001_UserInfoTest  ****
+[INFO ] 2024-05-01 21:22:14.845 [main] TC_001_UserInfoTest - **** Starting TC_002_CheckTitleTest ****
+[INFO ] 2024-05-01 21:22:14.845 [main] TC_001_UserInfoTest - **** Finished TC_002_CheckTitleTest ****
+[INFO ] 2024-05-01 21:22:14.849 [main] TC_001_UserInfoTest - **** Starting TC_003_AuthorInfoTest ****
+[INFO ] 2024-05-01 21:22:18.065 [main] TC_001_UserInfoTest - **** Finished TC_003_AuthorInfoTest ****
+[INFO ] 2024-05-01 21:22:18.067 [main] TC_001_UserInfoTest - **** Starting TC_004_ShareOptionTest ****
+[INFO ] 2024-05-01 21:22:19.130 [main] TC_001_UserInfoTest - **** Starting TC_004_ShareOptionTest ****
+[INFO ] 2024-05-01 21:22:19.132 [main] TC_001_UserInfoTest - **** Starting TC_005_NewsLetterTest ****
+[INFO ] 2024-05-01 21:22:22.213 [main] TC_001_UserInfoTest - **** Finished TC_005_NewsLetterTest ****
+[INFO ] 2024-05-01 21:22:22.217 [main] TC_001_UserInfoTest - **** Starting TC_007_LikesAndViewsTest ****
+[INFO ] 2024-05-01 21:22:22.249 [main] TC_001_UserInfoTest - **** Finished TC_007_LikesAndViewsTest ****
+[INFO ] 2024-05-01 21:22:22.251 [main] TC_001_UserInfoTest - **** Starting TC_006_LinksActiveTest ****
+[INFO ] 2024-05-01 21:22:22.499 [main] TC_001_UserInfoTest - **** Finished TC_006_LinksActiveTest ****
+[INFO ] 2024-05-01 21:22:41.698 [main] TC_001_UserInfoTest - **** Starting TC_001_UserInfoTest  ****
+[INFO ] 2024-05-01 21:22:52.431 [main] TC_001_UserInfoTest - **** Finished TC_001_UserInfoTest  ****
+[INFO ] 2024-05-01 21:22:52.433 [main] TC_001_UserInfoTest - **** Starting TC_002_CheckTitleTest ****
+[INFO ] 2024-05-01 21:22:52.434 [main] TC_001_UserInfoTest - **** Finished TC_002_CheckTitleTest ****
+[INFO ] 2024-05-01 21:22:52.436 [main] TC_001_UserInfoTest - **** Starting TC_003_AuthorInfoTest ****
+[INFO ] 2024-05-01 21:22:54.843 [main] TC_001_UserInfoTest - **** Finished TC_003_AuthorInfoTest ****
+[INFO ] 2024-05-01 21:22:54.846 [main] TC_001_UserInfoTest - **** Starting TC_004_ShareOptionTest ****
+[INFO ] 2024-05-01 21:22:55.929 [main] TC_001_UserInfoTest - **** Starting TC_004_ShareOptionTest ****
+[INFO ] 2024-05-01 21:22:55.932 [main] TC_001_UserInfoTest - **** Starting TC_005_NewsLetterTest ****
+[INFO ] 2024-05-01 21:22:59.033 [main] TC_001_UserInfoTest - **** Finished TC_005_NewsLetterTest ****
+[INFO ] 2024-05-01 21:22:59.037 [main] TC_001_UserInfoTest - **** Starting TC_007_LikesAndViewsTest ****
+[INFO ] 2024-05-01 21:22:59.068 [main] TC_001_UserInfoTest - **** Finished TC_007_LikesAndViewsTest ****
+[INFO ] 2024-05-01 21:22:59.069 [main] TC_001_UserInfoTest - **** Starting TC_006_LinksActiveTest ****
+[INFO ] 2024-05-01 21:22:59.320 [main] TC_001_UserInfoTest - **** Finished TC_006_LinksActiveTest ****
+[INFO ] 2024-05-01 21:23:21.179 [main] TC_001_UserInfoTest - **** Starting TC_001_UserInfoTest  ****
+[ERROR] 2024-05-01 21:23:31.441 [main] TC_001_UserInfoTest - test failed
+[INFO ] 2024-05-01 21:23:31.451 [main] TC_001_UserInfoTest - **** Starting TC_002_CheckTitleTest ****
+[INFO ] 2024-05-01 21:23:31.451 [main] TC_001_UserInfoTest - **** Finished TC_002_CheckTitleTest ****
+[INFO ] 2024-05-01 21:23:31.452 [main] TC_001_UserInfoTest - **** Starting TC_003_AuthorInfoTest ****
+[ERROR] 2024-05-01 21:23:31.454 [main] TC_001_UserInfoTest - test failed
+[INFO ] 2024-05-01 21:23:31.459 [main] TC_001_UserInfoTest - **** Starting TC_004_ShareOptionTest ****
+[ERROR] 2024-05-01 21:23:31.463 [main] TC_001_UserInfoTest - test failed
+[INFO ] 2024-05-01 21:23:31.470 [main] TC_001_UserInfoTest - **** Starting TC_005_NewsLetterTest ****
+[ERROR] 2024-05-01 21:23:31.473 [main] TC_001_UserInfoTest - test failed
+[INFO ] 2024-05-01 21:23:31.478 [main] TC_001_UserInfoTest - **** Starting TC_007_LikesAndViewsTest ****
+[ERROR] 2024-05-01 21:23:31.480 [main] TC_001_UserInfoTest - test failed
+[INFO ] 2024-05-01 21:23:31.485 [main] TC_001_UserInfoTest - **** Starting TC_006_LinksActiveTest ****
+[ERROR] 2024-05-01 21:23:31.487 [main] TC_001_UserInfoTest - test failed
+[DEBUG] 2024-05-01 21:51:04.800 [main] TestNG - suiteXmlPath: "C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml"
+[INFO ] 2024-05-01 21:51:05.220 [main] Utils - [TestNG] Running:
+  C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml
+
+[DEBUG] 2024-05-01 21:53:28.117 [main] TestNG - suiteXmlPath: "C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml"
+[INFO ] 2024-05-01 21:53:28.640 [main] Utils - [TestNG] Running:
+  C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml
+
+[DEBUG] 2024-05-01 21:58:30.124 [main] TestNG - suiteXmlPath: "C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml"
+[INFO ] 2024-05-01 21:58:30.509 [main] Utils - [TestNG] Running:
+  C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml
+
+[DEBUG] 2024-05-01 22:04:22.968 [main] TestNG - suiteXmlPath: "C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml"
+[INFO ] 2024-05-01 22:04:23.348 [main] Utils - [TestNG] Running:
+  C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml
+
+[DEBUG] 2024-05-01 22:07:58.398 [main] TestNG - suiteXmlPath: "C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml"
+[INFO ] 2024-05-01 22:07:58.809 [main] Utils - [TestNG] Running:
+  C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml
+
+[DEBUG] 2024-05-01 22:20:12.942 [main] TestNG - suiteXmlPath: "C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml"
+[INFO ] 2024-05-01 22:20:13.324 [main] Utils - [TestNG] Running:
+  C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml
+
+[DEBUG] 2024-05-01 22:21:09.820 [main] TestNG - suiteXmlPath: "C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml"
+[INFO ] 2024-05-01 22:21:10.237 [main] Utils - [TestNG] Running:
+  C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml
+
+[DEBUG] 2024-05-01 22:28:43.166 [main] TestNG - suiteXmlPath: "C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml"
+[INFO ] 2024-05-01 22:28:43.567 [main] Utils - [TestNG] Running:
+  C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml
+
+[DEBUG] 2024-05-01 22:29:33.332 [main] TestNG - suiteXmlPath: "C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml"
+[INFO ] 2024-05-01 22:29:33.654 [main] Utils - [TestNG] Running:
+  C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml
+
+[DEBUG] 2024-05-01 22:30:34.971 [main] TestNG - suiteXmlPath: "C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml"
+[INFO ] 2024-05-01 22:30:35.588 [main] Utils - [TestNG] Running:
+  C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml
+
+[DEBUG] 2024-05-01 22:36:47.586 [main] TestNG - suiteXmlPath: "C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml"
+[DEBUG] 2024-05-01 22:37:13.817 [main] TestNG - suiteXmlPath: "C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml"
+[INFO ] 2024-05-01 22:37:14.284 [main] Utils - [TestNG] Running:
+  C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml
+
+[DEBUG] 2024-05-01 22:42:26.961 [main] TestNG - suiteXmlPath: "C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml"
+[INFO ] 2024-05-01 22:42:27.356 [main] Utils - [TestNG] Running:
+  C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml
+
+[DEBUG] 2024-05-01 22:46:28.080 [main] TestNG - suiteXmlPath: "C:\Users\2317317\AppData\Local\Temp\6\testng-eclipse--432987414\testng-customsuite.xml"
+[INFO ] 2024-05-01 22:46:28.380 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.382 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.385 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.385 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.392 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+[INFO ] 2024-05-01 22:46:28.404 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 11 ms.
+[INFO ] 2024-05-01 22:46:28.406 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.406 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.406 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.406 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.407 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.407 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.407 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.407 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.407 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.408 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.409 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.409 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.409 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.409 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.416 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.417 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.417 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.417 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.418 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.418 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.419 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.419 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.420 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.420 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.420 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.420 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.420 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.420 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.420 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.420 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.420 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.421 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.421 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.421 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.422 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.422 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.422 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.423 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.423 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.423 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.424 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.424 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.425 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.425 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.425 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.425 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.425 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.425 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.426 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.426 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.426 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.426 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.426 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.426 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.427 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.427 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.428 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.428 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.428 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.428 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.429 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.429 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.430 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.430 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.430 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.430 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.430 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.430 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.431 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.431 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.431 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.431 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.431 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.431 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.432 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.433 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.433 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.433 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.433 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.434 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[INFO ] 2024-05-01 22:46:28.434 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.434 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.435 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.435 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.435 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.435 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.435 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.435 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.436 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.436 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.436 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.436 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.436 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.436 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.438 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.438 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.438 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.438 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.438 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.439 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.439 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.440 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.440 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.440 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.440 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.440 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.441 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.441 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.441 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.441 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.441 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.441 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.441 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.441 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.443 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.443 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.443 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.443 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.443 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.444 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.445 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.445 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.446 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.446 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.446 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.446 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.446 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.446 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.446 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.447 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.447 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.447 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.447 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.447 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.448 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.448 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.449 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.449 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.449 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.449 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.450 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.450 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.451 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.451 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.451 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.451 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.451 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.451 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.451 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.451 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.452 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.452 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.452 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.452 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.456 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.457 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.460 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+[INFO ] 2024-05-01 22:46:28.460 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.462 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[INFO ] 2024-05-01 22:46:28.468 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+[INFO ] 2024-05-01 22:46:28.471 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[INFO ] 2024-05-01 22:46:28.471 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.471 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.471 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-01 22:46:28.487 [main] Utils - [TestNG] Running:
+  C:\Users\2317317\AppData\Local\Temp\6\testng-eclipse--432987414\testng-customsuite.xml
+
+[INFO ] 2024-05-01 22:46:28.545 [main] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 9 ms.
+[ERROR] 2024-05-01 22:46:28.590 [main] Utils - [Error] org.testng.TestNGException: 
+Parameter &apos;Newsno&apos; is required by @Test on method checkTitle but has not been marked @Optional or defined
+in C:\Users\2317317\AppData\Local\Temp\6\testng-eclipse--432987414\testng-customsuite.xml
+	at org.testng.internal.Parameters.createParams(Parameters.java:264)
+	at org.testng.internal.Parameters.createParametersForMethod(Parameters.java:352)
+	at org.testng.internal.Parameters.createParameters(Parameters.java:690)
+	at org.testng.internal.Parameters.handleParameters(Parameters.java:885)
+	at org.testng.internal.Parameters.handleParameters(Parameters.java:734)
+	at org.testng.internal.invokers.ParameterHandler.handleParameters(ParameterHandler.java:72)
+	at org.testng.internal.invokers.ParameterHandler.createParameters(ParameterHandler.java:51)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:946)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:739)
+	at org.testng.TestRunner.run(TestRunner.java:614)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+
+[INFO ] 2024-05-01 22:46:28.819 [main] Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@50eca7c6: 137 ms
+[INFO ] 2024-05-01 22:46:28.852 [main] Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@44e3760b: 33 ms
+[INFO ] 2024-05-01 22:46:28.880 [main] Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@f6c03cb: 28 ms
+[INFO ] 2024-05-01 22:46:28.890 [main] Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@3f28bd56: 10 ms
+[INFO ] 2024-05-01 22:46:28.919 [main] Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@7c7d3c46: 28 ms
+[INFO ] 2024-05-01 22:46:28.920 [main] Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@24fb6a80: 0 ms
+[DEBUG] 2024-05-01 22:47:00.856 [main] TestNG - suiteXmlPath: "C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml"
+[INFO ] 2024-05-01 22:47:01.234 [main] Utils - [TestNG] Running:
+  C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml
+
+[DEBUG] 2024-05-01 22:50:54.519 [main] TestNG - suiteXmlPath: "C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml"
+[INFO ] 2024-05-01 22:50:54.893 [main] Utils - [TestNG] Running:
+  C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml
+
+[DEBUG] 2024-05-02 10:21:15.719 [main] TestNG - suiteXmlPath: "C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml"
+[INFO ] 2024-05-02 10:21:16.307 [main] Utils - [TestNG] Running:
+  C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml
+
+[DEBUG] 2024-05-02 10:38:14.765 [main] TestNG - suiteXmlPath: "C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml"
+[INFO ] 2024-05-02 10:38:15.181 [main] Utils - [TestNG] Running:
+  C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml
+
+[DEBUG] 2024-05-02 10:40:39.863 [main] TestNG - suiteXmlPath: "C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml"
+[INFO ] 2024-05-02 10:40:40.341 [main] Utils - [TestNG] Running:
+  C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml
+
+[DEBUG] 2024-05-02 10:55:14.620 [main] TestNG - suiteXmlPath: "C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml"
+[INFO ] 2024-05-02 10:55:15.037 [main] Utils - [TestNG] Running:
+  C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml
+
+[DEBUG] 2024-05-02 10:57:06.849 [main] TestNG - suiteXmlPath: "C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml"
+[INFO ] 2024-05-02 10:57:07.263 [main] Utils - [TestNG] Running:
+  C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml
+
+[DEBUG] 2024-05-02 13:45:51.962 [main] TestNG - suiteXmlPath: "C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml"
+[DEBUG] 2024-05-02 13:46:33.095 [main] TestNG - suiteXmlPath: "C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml"
+[INFO ] 2024-05-02 13:46:33.363 [main] Utils - [TestNG] Running:
+  C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml
+
+[DEBUG] 2024-05-02 14:03:24.947 [main] TestNG - suiteXmlPath: "C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml"
+[INFO ] 2024-05-02 14:03:25.595 [main] Utils - [TestNG] Running:
+  C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml
+
+[DEBUG] 2024-05-02 14:04:23.176 [main] TestNG - suiteXmlPath: "C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml"
+[INFO ] 2024-05-02 14:04:23.711 [main] Utils - [TestNG] Running:
+  C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml
+
+[DEBUG] 2024-05-02 14:07:37.071 [main] TestNG - suiteXmlPath: "C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml"
+[INFO ] 2024-05-02 14:07:37.660 [main] Utils - [TestNG] Running:
+  C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml
+
+[DEBUG] 2024-05-02 14:08:52.270 [main] TestNG - suiteXmlPath: "C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml"
+[INFO ] 2024-05-02 14:08:52.558 [main] Utils - [TestNG] Running:
+  C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml
+
+[DEBUG] 2024-05-02 14:18:52.895 [main] TestNG - suiteXmlPath: "C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml"
+[INFO ] 2024-05-02 14:18:53.347 [main] Utils - [TestNG] Running:
+  C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml
+
+[DEBUG] 2024-05-02 15:01:12.541 [main] TestNG - suiteXmlPath: "C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml"
+[INFO ] 2024-05-02 15:01:13.034 [main] Utils - [TestNG] Running:
+  C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml
+
+[DEBUG] 2024-05-02 15:04:50.387 [main] TestNG - suiteXmlPath: "C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml"
+[INFO ] 2024-05-02 15:04:50.869 [main] Utils - [TestNG] Running:
+  C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml
+
+[DEBUG] 2024-05-02 15:08:10.578 [main] TestNG - suiteXmlPath: "C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml"
+[INFO ] 2024-05-02 15:08:11.095 [main] Utils - [TestNG] Running:
+  C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml
+
+[DEBUG] 2024-05-02 15:09:59.428 [main] TestNG - suiteXmlPath: "C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml"
+[INFO ] 2024-05-02 15:09:59.966 [main] Utils - [TestNG] Running:
+  C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml
+
+[DEBUG] 2024-05-02 16:39:18.490 [main] TestNG - suiteXmlPath: "C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml"
+[INFO ] 2024-05-02 16:39:18.975 [main] Utils - [TestNG] Running:
+  C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml
+
+[DEBUG] 2024-05-02 20:43:46.009 [main] TestNG - suiteXmlPath: "C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml"
+[INFO ] 2024-05-02 20:43:46.607 [main] Utils - [TestNG] Running:
+  C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml
+
+[DEBUG] 2024-05-02 20:47:33.123 [main] TestNG - suiteXmlPath: "C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml"
+[INFO ] 2024-05-02 20:47:33.542 [main] Utils - [TestNG] Running:
+  C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml
+
+[DEBUG] 2024-05-02 23:09:13.495 [main] TestNG - suiteXmlPath: "C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml"
+[INFO ] 2024-05-02 23:09:13.778 [main] Utils - [TestNG] Running:
+  C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml
+
+[DEBUG] 2024-05-02 23:10:00.288 [main] TestNG - suiteXmlPath: "C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml"
+[INFO ] 2024-05-02 23:10:00.735 [main] Utils - [TestNG] Running:
+  C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml
+
+[DEBUG] 2024-05-02 23:14:05.009 [main] TestNG - suiteXmlPath: "C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml"
+[INFO ] 2024-05-02 23:14:05.462 [main] Utils - [TestNG] Running:
+  C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml
+
+[DEBUG] 2024-05-02 23:17:56.238 [main] TestNG - suiteXmlPath: "C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml"
+[INFO ] 2024-05-02 23:17:56.641 [main] Utils - [TestNG] Running:
+  C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml
+
+[DEBUG] 2024-05-03 00:22:12.195 [main] TestNG - suiteXmlPath: "C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml"
+[INFO ] 2024-05-03 00:22:12.587 [main] Utils - [TestNG] Running:
+  C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml
+
+[DEBUG] 2024-05-03 01:03:55.976 [main] TestNG - suiteXmlPath: "C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml"
+[INFO ] 2024-05-03 01:03:56.498 [main] Utils - [TestNG] Running:
+  C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml
+
+[DEBUG] 2024-05-03 01:11:30.687 [main] TestNG - suiteXmlPath: "C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml"
+[INFO ] 2024-05-03 01:11:31.099 [main] Utils - [TestNG] Running:
+  C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml
+
+[DEBUG] 2024-05-03 01:27:50.315 [main] TestNG - suiteXmlPath: "C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml"
+[INFO ] 2024-05-03 01:27:50.718 [main] Utils - [TestNG] Running:
+  C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml
+
+[DEBUG] 2024-05-03 02:06:36.459 [main] TestNG - suiteXmlPath: "C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml"
+[INFO ] 2024-05-03 02:06:36.980 [main] Utils - [TestNG] Running:
+  C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml
+
+[DEBUG] 2024-05-03 02:11:04.081 [main] TestNG - suiteXmlPath: "C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml"
+[INFO ] 2024-05-03 02:11:04.488 [main] Utils - [TestNG] Running:
+  C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml
+
+[DEBUG] 2024-05-03 02:17:17.410 [main] TestNG - suiteXmlPath: "C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml"
+[INFO ] 2024-05-03 02:17:17.857 [main] Utils - [TestNG] Running:
+  C:\Users\2317317\eclipse-workspace\CAS_project\testng.xml
+
+[DEBUG] 2024-05-03 09:41:16.790 [main] TestNG - suiteXmlPath: "C:\Users\2317709\eclipse-workspace\CAS_project\testng.xml"
+[INFO ] 2024-05-03 09:41:17.345 [main] Utils - [TestNG] Running:
+  C:\Users\2317709\eclipse-workspace\CAS_project\testng.xml
+
+[DEBUG] 2024-05-08 08:04:40.823 [main] TestNG - suiteXmlPath: "C:\Users\2317709\eclipse-workspace\CAS_project\testng.xml"
+[INFO ] 2024-05-08 08:04:41.540 [main] Utils - [TestNG] Running:
+  C:\Users\2317709\eclipse-workspace\CAS_project\testng.xml
+
+[DEBUG] 2024-05-09 15:45:16.986 [main] TestNG - suiteXmlPath: "C:\Users\2317709\AppData\Local\Temp\testng-eclipse--1248733540\testng-customsuite.xml"
+[INFO ] 2024-05-09 15:45:17.632 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[INFO ] 2024-05-09 15:45:17.637 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+[INFO ] 2024-05-09 15:45:17.641 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-09 15:45:17.641 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-09 15:45:17.650 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+[INFO ] 2024-05-09 15:45:17.670 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 19 ms.
+[INFO ] 2024-05-09 15:45:17.673 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-09 15:45:17.674 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-09 15:45:17.675 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-09 15:45:17.675 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-09 15:45:17.676 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-09 15:45:17.676 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-09 15:45:17.676 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-09 15:45:17.676 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-09 15:45:17.677 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-09 15:45:17.677 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-09 15:45:17.680 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-09 15:45:17.680 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-09 15:45:17.681 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-09 15:45:17.681 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-09 15:45:17.686 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-09 15:45:17.686 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-09 15:45:17.689 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+[INFO ] 2024-05-09 15:45:17.691 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-09 15:45:17.692 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-09 15:45:17.693 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-09 15:45:17.696 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-09 15:45:17.697 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-09 15:45:17.697 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-09 15:45:17.697 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-09 15:45:17.715 [main] Utils - [TestNG] Running:
+  C:\Users\2317709\AppData\Local\Temp\testng-eclipse--1248733540\testng-customsuite.xml
+
+[INFO ] 2024-05-09 15:45:17.800 [main] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 25 ms.
+[INFO ] 2024-05-09 15:45:18.171 [main] Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@3e34ace1: 192 ms
+[INFO ] 2024-05-09 15:45:18.209 [main] Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@2611b9a3: 38 ms
+[INFO ] 2024-05-09 15:45:18.259 [main] Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@2692b61e: 50 ms
+[INFO ] 2024-05-09 15:45:18.280 [main] Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@665e9289: 19 ms
+[INFO ] 2024-05-09 15:45:18.296 [main] Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@71984c3: 16 ms
+[INFO ] 2024-05-09 15:45:18.296 [main] Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@165b2f7f: 0 ms
+[DEBUG] 2024-05-09 15:45:18.545 [main] TestNG - suiteXmlPath: "C:\Users\2317709\AppData\Local\Temp\testng-eclipse-93655372\testng-customsuite.xml"
+[INFO ] 2024-05-09 15:45:19.198 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+[INFO ] 2024-05-09 15:45:19.209 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+[INFO ] 2024-05-09 15:45:19.212 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-09 15:45:19.213 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-09 15:45:19.225 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 7 ms.
+[INFO ] 2024-05-09 15:45:19.254 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 28 ms.
+[INFO ] 2024-05-09 15:45:19.259 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-09 15:45:19.261 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[INFO ] 2024-05-09 15:45:19.263 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-09 15:45:19.263 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-09 15:45:19.265 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-09 15:45:19.265 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-09 15:45:19.266 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-09 15:45:19.266 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-09 15:45:19.268 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-09 15:45:19.268 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-09 15:45:19.272 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-09 15:45:19.272 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-09 15:45:19.273 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-09 15:45:19.273 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-09 15:45:19.279 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-09 15:45:19.280 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-09 15:45:19.285 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+[INFO ] 2024-05-09 15:45:19.287 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+[INFO ] 2024-05-09 15:45:19.290 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-09 15:45:19.291 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-09 15:45:19.296 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[INFO ] 2024-05-09 15:45:19.298 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-09 15:45:19.298 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2024-05-09 15:45:19.299 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2024-05-09 15:45:19.333 [main] Utils - [TestNG] Running:
+  C:\Users\2317709\AppData\Local\Temp\testng-eclipse-93655372\testng-customsuite.xml
+
+[INFO ] 2024-05-09 15:45:19.427 [main] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 11 ms.
+[INFO ] 2024-05-09 15:45:19.780 [main] Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@3e34ace1: 155 ms
+[INFO ] 2024-05-09 15:45:19.815 [main] Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@2611b9a3: 35 ms
+[INFO ] 2024-05-09 15:45:19.855 [main] Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@2692b61e: 39 ms
+[INFO ] 2024-05-09 15:45:19.875 [main] Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@665e9289: 20 ms
+[INFO ] 2024-05-09 15:45:19.889 [main] Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@71984c3: 14 ms
+[INFO ] 2024-05-09 15:45:19.891 [main] Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@165b2f7f: 0 ms
+[DEBUG] 2024-05-12 18:57:50.642 [main] TestNG - suiteXmlPath: "C:\Users\2317709\eclipse-workspace\CAS_project\testng.xml"
+[INFO ] 2024-05-12 18:57:51.201 [main] Utils - [TestNG] Running:
+  C:\Users\2317709\eclipse-workspace\CAS_project\testng.xml
+
+[DEBUG] 2024-05-12 19:14:47.918 [main] TestNG - suiteXmlPath: "C:\Users\2317709\eclipse-workspace\CAS_project\testng.xml"
+[INFO ] 2024-05-12 19:14:48.458 [main] Utils - [TestNG] Running:
+  C:\Users\2317709\eclipse-workspace\CAS_project\testng.xml
+
+[DEBUG] 2024-05-16 07:02:42.096 [main] TestNG - suiteXmlPath: "C:\Users\2317709\eclipse-workspace\CAS_project\testng.xml"
+[INFO ] 2024-05-16 07:02:42.735 [main] Utils - [TestNG] Running:
+  C:\Users\2317709\eclipse-workspace\CAS_project\testng.xml
+
+[DEBUG] 2024-05-16 15:07:45.550 [main] TestNG - suiteXmlPath: "C:\Users\2317709\eclipse-workspace\CAS_project\testng.xml"
+[INFO ] 2024-05-16 15:07:45.927 [main] Utils - [TestNG] Running:
+  C:\Users\2317709\eclipse-workspace\CAS_project\testng.xml
+
